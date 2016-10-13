@@ -1,0 +1,19 @@
+{
+    "name": "nikitakiselev/validator",
+    "description": "Simple validation library",
+    "type": "library, composer-plugin",
+    "authors": [
+        {
+            "name": "Nikita Kiselev",
+            "email": "kiselev2008@gmail.com"
+        }
+    ],
+    "required": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "NikitaKiselev\\Validator\\": "src/"
+        }
+    }
+}
