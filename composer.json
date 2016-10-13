@@ -1,7 +1,6 @@
 {
     "name": "nikitakiselev/validator",
     "description": "Simple validation library",
-    "type": "library, composer-plugin",
     "authors": [
         {
             "name": "Nikita Kiselev",
